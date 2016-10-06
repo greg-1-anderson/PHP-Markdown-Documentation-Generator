@@ -1,5 +1,5 @@
 {
-    "name": "victorjonsson/markdowndocs",
+    "name": "greg-1-anderson/markdowndocs",
     "description": "Command line tool for generating markdown-formatted class documentation",
     "minimum-stability": "dev",
     "homepage" : "https://github.com/victorjonsson/PHP-Markdown-Documentation-Generator",
